@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://kzielnicki.github.io/webtest/blog/archives/</loc>
+        <lastmod>2014-06-09T12:48:27-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://kzielnicki.github.io/webtest/</loc>
+        <lastmod>2014-06-09T12:48:27-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://kzielnicki.github.io/webtest/robots.txt</loc>
+        <lastmod>2014-06-09T12:48:27-07:00</lastmod>
+    </url>
+</urlset>
